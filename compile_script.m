@@ -1,4 +1,4 @@
-% compile script
+% Examples how to compile scripts (also applicable on HPC)
 
 rmpath(genpath('D:\Users\rschoeters\Documents\MATLAB\Interestingfunctions'));
 addpath('D:\Users\rschoeters\Documents\MATLAB\Interestingfunctions');

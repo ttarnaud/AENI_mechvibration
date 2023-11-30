@@ -3,5 +3,7 @@ Results/Linearity/OutputLinearityvib_20203807-2201.mat
 Results/Figures biological noise/
 Compilations/
 DataBases/
+Results/RAWResults/
 Functions/*.mat
+OLD/*.mat
 *.gif
