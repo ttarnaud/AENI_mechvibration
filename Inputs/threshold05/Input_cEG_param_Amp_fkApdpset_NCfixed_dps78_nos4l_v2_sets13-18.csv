@@ -1,0 +1,19 @@
+Model,ROI,nLayers,evalMode,sim_method,vibrField,Aus_way,kAus_1,kAus_2,kAus_con,Amp_1,Amp_2,Amp_3,Amp_4,Amp_5,Amp_6,Totaldps_1,Totaldps_2,dps_run_1,dps_run_2,Settings,SettingsStr,calcStrengthCurve,maxTime,fus,meanI,stdI,dpDistribution,dpOrientation,dpI_space,dpI_time
+,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,
+human_air,Deep,3,hpc,single_sim_totaldps,art,kexp,568.800120565085,568.800120565085,Totaldps,1e-09,1e-08,1e-07,1e-06,1e-05,0.0001,10000,30000,40,40,"",Settingset: 13,1,86040,1000000,10,3,fibonaccimultiple,radial,normal,artificialPSD_fixed
+human_air,Deep,5,hpc,single_sim_totaldps,art,kexp,850.554567045483,850.554567045483,Totaldps,1e-09,1e-08,1e-07,1e-06,1e-05,0.0001,10000,30000,40,40,"",Settingset: 14,1,86040,1000000,10,3,fibonaccimultiple,radial,normal,artificialPSD_fixed
+human_air,Deep,10,hpc,single_sim_totaldps,art,kexp,1337.48060995284,1337.48060995284,Totaldps,1e-09,1e-08,1e-07,1e-06,1e-05,0.0001,10000,30000,40,40,"",Settingset: 15,1,86040,1000000,10,3,fibonaccimultiple,radial,normal,artificialPSD_fixed
+human_air,Cortex,3,hpc,single_sim_totaldps,art,kexp,11246.826503807,11246.826503807,Totaldps,1e-09,1e-08,1e-07,1e-06,1e-05,0.0001,10000,30000,40,40,"",Settingset: 16,1,86040,1000000,10,3,fibonaccimultiple,radial,normal,artificialPSD_fixed
+human_air,Cortex,5,hpc,single_sim_totaldps,art,kexp,20000,20000,Totaldps,1e-09,1e-08,1e-07,1e-06,1e-05,0.0001,10000,30000,40,40,"",Settingset: 17,1,86040,1000000,10,3,fibonaccimultiple,radial,normal,artificialPSD_fixed
+human_air,Cortex,10,hpc,single_sim_totaldps,art,kexp,8433.93006857164,8433.93006857164,Totaldps,1e-09,1e-08,1e-07,1e-06,1e-05,0.0001,10000,30000,40,40,"",Settingset: 18,1,86040,1000000,10,3,fibonaccimultiple,radial,normal,artificialPSD_fixed

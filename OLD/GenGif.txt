@@ -1,0 +1,90 @@
+if GENGIF
+filename = 'test.gif';
+for n=1:length(Tsim)
+    figure(Fignr+n)
+    subplot(4,2,[1,3,5,7]);
+    t = Tsim(n);
+    CSource(idxOscDip,:) = CSourceus + Dirus.*Aus.*sin(wus.*t+Phaseus);
+    CSink(idxOscDip,:) = CSinkus + Dirus.*Aus.*sin(wus.*t+Phaseus);
+    PotentialSphere_Multi(CSource,CSink,I,sigma,RSphere,1000,Fignr+n,'POI',POIs);
+    
+    axl = subplot(4,2,2);
+    plot([Tsim*1e6.*ones(3,1)]',[Dirus'.*Aus.*sin(wus.*Tsim+Phaseus)]'*1e9)
+    hold on 
+    plot([t*1e6.*ones(3,1)]',[Dirus'.*Aus.*sin(wus.*t+Phaseus)]'*1e9,'kx')
+    hold off
+    legend({'x component','y component','z component'})
+    ylabel('displacement [nm]')
+    xlabel('Time [µs]')
+    
+    
+    
+    ax1 = subplot(4,2,4);
+    nr1 = 1;
+    plot(Tsim*1e6,VR(nr1,:)-mean(VR(nr1,:)))
+    hold on
+    plot(t*1e6,VR(nr1,n)-mean(VR(nr1,:)),'kx')
+    hold off
+    xlabel('Time [µs]')
+    ylabel('Potential fluctuation [µV]')
+    title(['POI = ',num2str(nr1)])
+    
+    
+    ax2 = subplot(4,2,6);
+    nr2 = 8;
+    plot(Tsim*1e6,VR(nr2,:)-mean(VR(nr2,:)))
+    hold on
+    plot(t*1e6,VR(nr2,n)-mean(VR(nr2,:)),'kx')
+    hold off
+    xlabel('Time [µs]')
+    ylabel('Potential fluctuation [µV]')
+    title(['POI = ',num2str(nr2)])
+    
+    
+    ax3 = subplot(4,2,8);
+    nr3 = 16;
+    plot(Tsim*1e6,VR(nr3,:)-mean(VR(nr3,:)))
+    hold on
+    plot(t*1e6,VR(nr3,n)-mean(VR(nr3,:)),'kx')
+    hold off
+    xlabel('Time [µs]')
+    ylabel('Potential fluctuation [µV]')
+    title(['POI = ',num2str(nr3)])
+    LIMS = vertcat(get(ax1,'YLIM'),get(ax2,'YLIM'),get(ax3,'YLIM'));
+    YLIM = [min(LIMS(:,1)),max(LIMS(:,2))];
+    set(ax1,'YLIM',YLIM);set(ax2,'YLIM',YLIM);set(ax3,'YLIM',YLIM)
+    
+    axes(ax1)
+    YTICKS = get(gca,'ytick');
+    yyaxis right
+    set(gca,'ylim',YLIM,'ytick',YTICKS,'yticklabel',cellstr(num2str(round(YTICKS(:)+mean(VR(nr1,:)),12))))
+    ylabel('Absolute V [µV]')
+    axes(ax2)
+    YTICKS = get(gca,'ytick');
+    yyaxis right
+    set(gca,'ylim',YLIM,'ytick',YTICKS,'yticklabel',cellstr(num2str(round(YTICKS(:)+mean(VR(nr2,:)),12))))
+    ylabel('Absolute V [µV]')
+    axes(ax3)
+    YTICKS = get(gca,'ytick');
+    yyaxis right
+    set(gca,'ylim',YLIM,'ytick',YTICKS,'yticklabel',cellstr(num2str(round(YTICKS(:)+mean(VR(nr3,:)),12))))
+    ylabel('Absolute V [µV]')
+    
+    
+    drawnow
+    h = gcf;
+    frame = getframe(h);
+    im = frame2im(frame);
+    [imind,cm] = rgb2ind(im,256);
+    % Write to the GIF File
+    if n == 1
+        imwrite(imind,cm,filename,'gif', 'Loopcount',inf,'DelayTime',0.1);
+    else
+        imwrite(imind,cm,filename,'gif','WriteMode','append','DelayTime',0.1);
+    end
+    close(h)
+    disp([num2str(n/length(Tsim)*100),'%']);
+end
+else
+    disp('no Gif generated')
+end

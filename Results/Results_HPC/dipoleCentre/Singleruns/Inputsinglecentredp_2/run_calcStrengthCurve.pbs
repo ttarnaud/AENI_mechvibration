@@ -1,0 +1,31 @@
+#!/bin/bash
+
+#PBS -l nodes=1:ppn=all
+
+	# requested running time (required!)
+#PBS -l walltime=72:00:00
+
+# PBS -l mem=60gb
+	# send mail
+#PBS -m abe 
+#PBS -M ruben.schoeters@ugent.be
+
+module load MATLAB
+
+# use temporary directory (not $home) for (mostly useless) MATLAB log files
+# subdir in ]TMPDIR (if defined or tmp otherwise)
+export MATLAB_LOG_DIR=$(mktemp -d -p ${TMPDIR:-/tmp})
+
+# configure MATLAB Compiler Runtime cache location & size (1GB)
+# use a temporary directory in /dev/shm (i.e. in memory) for performance reasons
+export MCR_CACHE_ROOT=$(mktemp -d -p /dev/shm)
+export MCR_CACHE_SIZE=1024MB
+ulimit -c 0
+
+cd $PBS_O_WORKDIR
+
+echo Start Job
+date
+./run_calcStrengthCurve.sh $SOFTROOTMATLAB $EBROOTMATLAB $'Inputsingle2'
+date
+echo End

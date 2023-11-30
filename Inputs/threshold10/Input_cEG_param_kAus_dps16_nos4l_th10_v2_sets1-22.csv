@@ -1,0 +1,23 @@
+Model,ROI,nLayers,evalMode,sim_method,vibrField,Aus_way,kAus_1,kAus_2,kAus_3,kAus_4,kAus_5,kAus_con,Amp_1,Amp_2,Amp_3,Amp_4,Amp_5,Totaldps_1,Totaldps_2,Totaldps_3,Totaldps_4,Totaldps_5,Totaldps_6,dps_run_1,dps_run_2,dps_run_3,dps_run_4,dps_run_5,dps_run_6,Settings,SettingsStr,calcStrengthCurve,maxTime,threshold,fus,meanI,stdI,dpDistribution,dpOrientation,dpI_space,dpI_time
+human_scalp,Deep,3,hpc,single_sim_totaldps,art,kexp,33.3333333333333,50,100,200,1000,Amp,1e-07,1e-07,1e-07,1e-07,1e-07,10,30,100,300,1000,3000,10,30,40,40,40,40,"",Settingset: 1,1,86040,0.1,1000000,10,3,fibonaccimultiple,radial,normal,artificialPSD_BC
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,,
+human_scalp,Cortex,3,hpc,single_sim_totaldps,art,kexp,33.3333333333333,50,100,200,1000,Amp,1e-07,1e-07,1e-07,1e-07,1e-07,10,30,100,300,1000,3000,10,30,40,40,40,40,"",Settingset: 4,1,86040,0.1,1000000,10,3,fibonaccimultiple,radial,normal,artificialPSD_BC
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,,
+human_cortical,Deep,3,hpc,single_sim_totaldps,art,kexp,33.3333333333333,50,100,200,1000,Amp,1e-07,1e-07,1e-07,1e-07,1e-07,10,30,100,300,1000,3000,10,30,40,40,40,40,"",Settingset: 7,1,86040,0.1,1000000,10,3,fibonaccimultiple,radial,normal,artificialPSD_BC
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,,
+human_cortical,Cortex,3,hpc,single_sim_totaldps,art,kexp,33.3333333333333,50,100,200,1000,Amp,1e-07,1e-07,1e-07,1e-07,1e-07,10,30,100,300,1000,3000,10,30,40,40,40,40,"",Settingset: 10,1,86040,0.1,1000000,10,3,fibonaccimultiple,radial,normal,artificialPSD_BC
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,,
+human_air,Deep,3,hpc,single_sim_totaldps,art,kexp,33.3333333333333,50,100,200,1000,Amp,1e-07,1e-07,1e-07,1e-07,1e-07,10,30,100,300,1000,3000,10,30,40,40,40,40,"",Settingset: 13,1,86040,0.1,1000000,10,3,fibonaccimultiple,radial,normal,artificialPSD_BC
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,,
+human_air,Cortex,3,hpc,single_sim_totaldps,art,kexp,33.3333333333333,50,100,200,1000,Amp,1e-07,1e-07,1e-07,1e-07,1e-07,10,30,100,300,1000,3000,10,30,40,40,40,40,"",Settingset: 16,1,86040,0.1,1000000,10,3,fibonaccimultiple,radial,normal,artificialPSD_BC
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,,
+mouse_fair0,Deep,3,hpc,single_sim_totaldps,art,kexp,33.3333333333333,50,100,200,1000,Amp,1e-07,1e-07,1e-07,1e-07,1e-07,10,30,100,300,1000,3000,10,30,40,40,40,40,"",Settingset: 19,1,86040,0.1,1000000,10,3,fibonaccimultiple,radial,normal,artificialPSD_BC
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,,,
+mouse_fair0,Cortex,3,hpc,single_sim_totaldps,art,kexp,33.3333333333333,50,100,200,1000,Amp,1e-07,1e-07,1e-07,1e-07,1e-07,10,30,100,300,1000,3000,10,30,40,40,40,40,"",Settingset: 22,1,86040,0.1,1000000,10,3,fibonaccimultiple,radial,normal,artificialPSD_BC

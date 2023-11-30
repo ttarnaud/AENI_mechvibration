@@ -1,0 +1,4057 @@
+Start Job
+Tue Jul  2 11:28:36 CEST 2019
+------------------------------------------
+Setting up environment variables
+---
+LD_LIBRARY_PATH is .:/apps/gent/CO7/haswell-ib/software/MATLAB/2018b/runtime/glnxa64:/apps/gent/CO7/haswell-ib/software/MATLAB/2018b/bin/glnxa64:/apps/gent/CO7/haswell-ib/software/MATLAB/2018b/sys/os/glnxa64:/apps/gent/CO7/haswell-ib/software/MATLAB/2018b/sys/opengl/lib/glnxa64
+Opening log file:  /tmp/tmp.2oerTxIqn1/java.log.19243
+start function
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 12 workers.
+Startingmodel: Human scalp
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: File: /dev/shm/tmp.RQ3d3iSevU/.mcrCache9.5/calcSt0/calcStrength/Functions/SimDipoleOscPC.m Line: 247 Column: 27
+The temporary variable Gomega will be cleared at the beginning of each iteration of the parfor loop.
+Any value assigned to it before the loop will be lost.  If Gomega is used before it is assigned in the parfor loop, a runtime error will occur.
+See Parallel for Loops in MATLAB, "Temporary Variables".
+> In SimDipoleOsc (line 358)
+  In investBiologicalNoise (line 194)
+  In calcStrengthCurve (line 76)
+Warning: File: /dev/shm/tmp.RQ3d3iSevU/.mcrCache9.5/calcSt0/calcStrength/Functions/SimDipoleOscPC.m Line: 255 Column: 39
+The temporary variable VRssMAT will be cleared at the beginning of each iteration of the parfor loop.
+Any value assigned to it before the loop will be lost.  If VRssMAT is used before it is assigned in the parfor loop, a runtime error will occur.
+See Parallel for Loops in MATLAB, "Temporary Variables".
+> In SimDipoleOsc (line 358)
+  In investBiologicalNoise (line 194)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+start finding threshold: 0.1
+
+newval =
+
+   3.1623e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.7783e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.3714e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.0535e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.2067e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.2876e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   3.1623e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.7783e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.3335e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.1548e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.0746e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.0366e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.0182e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.0090e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   3.1623e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.7783e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.3714e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.7384e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.5483e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.6416e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.5946e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.5713e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.5598e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.5540e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   3.1623e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.7783e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   2.3714e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   2.7384e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   2.9427e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.0505e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1059e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1340e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1481e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1552e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1623e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   5.6234e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   7.4989e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   8.6596e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   9.3057e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   8.9769e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   8.8168e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   8.7379e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   8.6987e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   8.6791e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1623e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.7783e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.3335e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.1548e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.2409e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.1971e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.2188e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.2298e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.2354e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.2326e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1623e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.7783e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   2.3714e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   2.0535e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   2.2067e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   2.1288e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   2.1674e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   2.1870e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   2.1968e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   2.2018e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1623e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   5.6234e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.2170e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.8697e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.5316e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.3714e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.2935e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.2551e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.2742e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.2646e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1623e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   5.6234e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   7.4989e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   8.6596e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   8.0584e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   8.3536e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   8.2047e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   8.1312e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   8.0947e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   8.0766e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1623e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.7783e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.3335e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.5399e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.4330e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.4855e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.4590e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.4460e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.4395e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.4427e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Startingmodel: Human cortical
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+start finding threshold: 0.1
+
+newval =
+
+   3.1623e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.7783e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.3335e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.5399e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.4330e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   3.1623e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.7783e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.3714e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.7384e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.9427e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   3.0505e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   3.1059e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   3.1623e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.7783e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.3335e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.1548e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.0746e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.1140e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.1342e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.1240e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.1190e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   3.1623e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   5.6234e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.2170e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.8697e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.5316e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.6976e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.7829e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.7400e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.7188e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.7294e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1623e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.7783e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.3335e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.5399e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.6548e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.7154e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.6849e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.7001e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.6924e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.6886e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1623e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   5.6234e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.2170e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.8697e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.5316e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.3714e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.2935e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.2551e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.2742e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.2646e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1623e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   5.6234e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.2170e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.8697e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   5.2330e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   5.4247e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   5.5232e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   5.5731e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   5.5982e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   5.5856e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1623e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.7783e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.3335e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.1548e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.2409e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.1971e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.1757e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.1652e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.1705e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.1731e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1623e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.7783e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.3335e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.5399e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.6548e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.7154e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.7466e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.7624e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.7703e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   1.7743e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.1623e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   5.6234e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   4.2170e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.6517e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.3982e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.2781e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.3376e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.3678e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.3527e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+
+newval =
+
+   3.3602e-05
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.065
+Startingmodel: Mouse scalp
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 76)
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+start finding threshold: 0.1
+
+newval =
+
+   3.1623e-09
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.7783e-09
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   2.3714e-09
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   3.1623e-09
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   5.6234e-09
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   7.4989e-09
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   6.4938e-09
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   3.1623e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.7783e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.3335e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.1548e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   1.2409e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+Warning: dps_run preferably multiple of 4
+> In investBiologicalNoise (line 170)
+  In calcStrengthCurve (line 158)
+
+newval =
+
+   3.1623e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   5.6234e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   4.2170e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   3.6517e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   3.3982e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   3.2781e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   3.3376e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   3.1623e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   5.6234e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   4.2170e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   4.8697e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   4.5316e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   4.3714e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   4.4508e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   3.1623e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   5.6234e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   7.4989e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   6.4938e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   6.9783e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   7.2339e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   7.3653e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   7.4318e-08
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   3.1623e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.7783e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   2.3714e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   2.0535e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.9110e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.8434e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.8106e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.7943e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.7863e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   3.1623e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.7783e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   2.3714e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   2.7384e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   2.9427e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   2.8387e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   2.7881e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   2.8133e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   2.8007e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   2.8070e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   3.1623e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   5.6234e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   4.2170e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   3.6517e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   3.9242e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   4.0679e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   4.1418e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   4.1792e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   4.1980e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   4.2075e-07
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   3.1623e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.7783e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.3335e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.1548e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.0746e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.0366e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.0182e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.0274e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.0227e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+
+newval =
+
+   1.0204e-06
+
+SETTINGS Dipoles:
+	 Dipole distribution type: fibonaccisingle
+	 Dipole orientation type: radial
+	 Distance CSource-CSink: 0.0005
+	 Maximum R value: 0.0041
+ended, start saving
+Wed Jul  3 18:56:30 CEST 2019
+End
